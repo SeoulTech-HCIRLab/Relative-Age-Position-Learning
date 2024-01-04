@@ -3,7 +3,7 @@ import argparse
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--phase', type=str, default="train", choices=['train', 'test'])
+    parser.add_argument('--phase', type=str, default="test", choices=['train', 'test'])
     parser.add_argument('--data_name', default='agedb',
                         choices=['agedb', 'cacd', 'afad'],
                         type=str, help='dataset option')
