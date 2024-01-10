@@ -3,7 +3,7 @@
 
 This is the Pytorch implementation of the paper "[Relative Age Position Learning for Face-based Age Estimation]()".
 
-<p align="center"><img src="images/architecture.png" width="400"></p>
+<p align="center"><img src="images/architecture.png" width="500"></p>
 
 ## Paper
 
