@@ -92,5 +92,12 @@ python main.py --phase train --data_name cacd --data_path path/to/cacd/images/ -
 ## Citing
 If you find this work useful, please cite the following paper:
 ```bibtex
-
+@ARTICLE{10646358,
+  author={Amirullaeva, Sevara and Han, Ji-Hyeong},
+  journal={IEEE Access}, 
+  title={Relative Age Position Learning for Face-Based Age Estimation}, 
+  year={2024},
+  volume={12},
+  pages={118832-118841},
+  doi={10.1109/ACCESS.2024.3445178}}
 ```
